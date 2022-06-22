@@ -8,7 +8,9 @@
     "build": "webpack",
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "server": "node server.js"
+    "server": "node server.js",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,9 +19,9 @@
   "author": "Hermann K. EHO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hermannleboss/frontend-mentor-meet-landing-page/issues"
+    "url": "https://hermannleboss.github.io/fm-QR-code-component/issues"
   },
-  "homepage": "https://github.com/hermannleboss/frontend-mentor-meet-landing-page#readme",
+  "homepage": "https://hermannleboss.github.io/fm-QR-code-component/dist",
   "devDependencies": {
     "css-loader": "^6.5.1",
     "express": "^4.17.1",
