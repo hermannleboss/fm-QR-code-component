@@ -1,16 +1,14 @@
 {
   "name": "faq-accordion-card-main",
   "version": "1.0.0",
-  "description": "Frontend Mentor Faq Accordion Card by HermannEHO",
+  "description": "Frontend Mentor Faq QR code component by HermannEHO",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "server": "node server.js",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d dist"
+    "server": "node server.js"
   },
   "repository": {
     "type": "git",
