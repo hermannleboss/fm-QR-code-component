@@ -41,6 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Webpack](https://webpack.js.org/) - This helped me to make my own build stack for sass and hot reload then i don't need a heavy framework for building process and hot reload.
 ## Author
 
-- Website - [AHermann EHO](https://www.hermanneho.com/)
+- Website - [Hermann EHO](https://www.hermanneho.com/)
 - Frontend Mentor - [@hermannleboss](https://www.frontendmentor.io/profile/hermannleboss)
 - Twitter - [@hermanneho](https://www.twitter.com/hermanneho)
